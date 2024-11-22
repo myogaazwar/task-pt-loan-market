@@ -1,7 +1,7 @@
 import React from 'react';
 
 import photoProfile from '../assets/images/photo_profile.svg';
-import IconOffice from '../components/Icons/Dashboard/iconOffice';
+import IconOffice from '../components/Icons/Dashboard/IconOffice';
 import IconTallerLine from '../components/Icons/Dashboard/IconTallerLine';
 import Icon_id from '../components/Icons/Dashboard/Icon_id';
 import IconEmail from '../components/Icons/Dashboard/IconEmail';
